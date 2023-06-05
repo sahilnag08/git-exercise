@@ -1,3 +1,13 @@
+<<<<<<< Updated upstream
 My name used to been Sahil
 My name has always been Sahil
 I am about to check git stashing
+=======
+My name used to be <Your Name> 
+
+My name has always been <Your Name> 
+
+I am about to check git stashing 
+
+I have successfully tested git stashing 
+>>>>>>> Stashed changes
